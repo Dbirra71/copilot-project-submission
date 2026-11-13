@@ -1,5 +1,7 @@
 List of files and purpose
 
+Project: Implementing workflows with M365 Copilot
+
 "Library of Copilot prompts.docx" - List of prompts used for each step
 
 Task 1
