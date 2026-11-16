@@ -6,7 +6,7 @@ Project: Implementing workflows with M365 Copilot
 
 Task 1
 "Summary of e-mail Supply chain critical issues.docx" - Summary of initial e-mail
-"Supply_Chain_Review.docx" - Report outlining the business problem, solution and proposed actions
+"Supply_Chain_Review.docx" - Report outlining the business problem, solution and proposed actions. The Supply Chain Issues Review document.
 
 Task 2
 "Screen shot of meeting invite Supply chain issues.docx" - Screen shot of invitation with agenda to meeting
